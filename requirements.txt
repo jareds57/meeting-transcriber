@@ -1,0 +1,6 @@
+sounddevice
+soundfile
+whisper
+pydub
+torch
+tkinter
